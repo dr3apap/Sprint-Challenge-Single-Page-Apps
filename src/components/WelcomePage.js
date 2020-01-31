@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-;
+import Image from "../assets/home.jpg";
 
 const HeaderSection = styled.section`
   display: flex;

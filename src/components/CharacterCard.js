@@ -22,14 +22,3 @@ export default function CharacterCard(props) {
     </CardDiv>
   );
 }
-
-
-
-
-
-
-// import React from "react";
-
-// export default function CharacterCard() {
-//   return <span>todo: character</span>;
-// }
